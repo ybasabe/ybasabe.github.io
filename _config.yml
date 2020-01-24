@@ -1,11 +1,11 @@
 # Site settings
-author: dazzling-directory-8519
-title: 
+author: Yamira Basabe
+title: Dreamers===Doers
 header-img: img/home-bg.png
 email: yamirabasabe@gmail.com
-copyright_name: dazzling-directory-8519
+copyright_name: Yamira Basabe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My SE Bootcamp Path
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: YamiraWiseUp
 github_username:  ybasabe
